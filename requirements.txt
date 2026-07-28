@@ -1,0 +1,18 @@
+# Dependencias del proyecto — versiones FIJAS para que todo el curso
+# trabaje con exactamente lo mismo.
+# Instalar con el entorno virtual activado:  pip install -r requirements.txt
+
+# --- Manipulacion y analisis de datos ---
+pandas==2.3.3
+numpy==2.2.6
+
+# --- Visualizacion ---
+matplotlib==3.10.9
+seaborn==0.13.2
+
+# --- Notebooks (necesario para correr .ipynb en VS Code) ---
+jupyter==1.1.1
+ipykernel==6.29.5
+
+# --- Lectura de archivos Excel ---
+openpyxl==3.1.5

@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ===== Datos del proyecto (template Data Analytics) =====
+# Se versiona la estructura de carpetas, no el contenido de datos ni las salidas.
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+outputs/*
+!outputs/.gitkeep
