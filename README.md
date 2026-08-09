@@ -1,5 +1,17 @@
 # Diplomatura en Data Analytics — UNNE
 
+> ### Estás en la branch `tp-final`
+>
+> El material del **Trabajo Práctico Final de la Unidad II** está en la carpeta **[`tp-final/`](tp-final/)**.
+>
+> - Empezá por **[`tp-final/docs/guia-git.md`](tp-final/docs/guia-git.md)**: te explica paso a paso qué descargar y cómo entregar.
+> - La consigna completa está en **[`tp-final/docs/consigna.md`](tp-final/docs/consigna.md)**.
+> - Lo que tenés que copiar a tu computadora es la carpeta **`tp-final/template/`**.
+>
+> El resto de este README describe la estructura general del repositorio de la materia.
+
+---
+
 Template estándar para proyectos de análisis de datos. Cloná este repositorio como punto de partida y reutilizá esta misma estructura en tus futuros proyectos: es simple, ordenada y sigue las buenas prácticas de la industria.
 
 ---
