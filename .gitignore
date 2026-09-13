@@ -225,3 +225,16 @@ data/processed/*
 !data/processed/.gitkeep
 outputs/*
 !outputs/.gitkeep
+
+# Excepcion: el padron de ejemplo de la clase SI se versiona.
+# Es chico, no tiene datos personales reales y hace falta para poder correr
+# el ETL de src/. Los datos de sus propios proyectos NO van al repositorio.
+!data/raw/padron_beneficiarios.csv
+!data/raw/generar_padron.py
+
+# La metadata SI se versiona: es texto, y describe el dato sin ser el dato.
+!data/processed/datapackage.json
+
+# Logs: son de cada corrida y de cada maquina.
+logs/*
+!logs/.gitkeep

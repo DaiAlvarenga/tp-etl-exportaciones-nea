@@ -76,4 +76,58 @@ Si es tu primera vez configurando el entorno, seguí la **Guía de configuració
 
 ---
 
+## Ejemplo de ETL: del archivo desprolijo al dato usable
+
+En `src/` hay un pipeline completo y funcionando que sirve de modelo para el trabajo
+final. Procesa un padrón de beneficiarios cargado a mano —con nombres en tres
+formatos, edades como texto y teléfonos escritos de cuatro maneras distintas— y
+devuelve una tabla limpia, documentada y reproducible.
+
+### Cómo correrlo
+
+```bash
+python src/main.py                # corre el pipeline completo
+python tests/test_transform.py    # corre las pruebas de las funciones
+```
+
+Produce tres archivos:
+
+```
+data/processed/padron_limpio.csv    el dato limpio
+data/processed/datapackage.json     la ficha que lo describe
+logs/proceso.log                    una línea por corrida
+```
+
+Corrélo dos veces: el CSV queda idéntico y el log suma una línea. Eso es
+**idempotencia**.
+
+### El recorrido
+
+| Archivo | Etapa | Qué hace |
+|---|---|---|
+| `notebooks/01_exploracion.ipynb` | — | Mira el archivo crudo y arma la lista de problemas |
+| `src/extract.py` | **Extract** | Lee el crudo. No limpia nada |
+| `src/transform.py` | **Transform** | Cuatro funciones de limpieza. No lee ni escribe archivos |
+| `src/load.py` | **Load** | Valida, guarda el CSV, escribe la ficha y registra la corrida |
+| `src/main.py` | — | Llama a las etapas en orden |
+| `src/config.py` | — | Rutas, versión y parámetros: lo que cambia entre corridas |
+| `tests/test_transform.py` | — | Prueba cada función con `assert`, sin tocar el disco |
+| `docs/metadata.md` | — | Qué es la metadata y qué significa cada columna |
+
+**El orden importa y es el punto del ejemplo: primero se explora, después se
+programa.** La exploración es la que descubrió que había teléfonos de Oberá y
+Clorinda con características que no estábamos contemplando. Sin ese paso, el ETL
+habría roto cuatro teléfonos en silencio.
+
+### Las tres reglas que ilustra
+
+1. **`extract` no limpia.** Separar "qué trajimos" de "qué le hicimos" es lo que
+   permite responder de dónde salió cada número.
+2. **`transform` no toca archivos.** Recibe filas y devuelve filas, y por eso se
+   puede probar sin conexión y sin abrir nada.
+3. **`load` valida antes de escribir.** Si no, el archivo malo ya está en disco y
+   alguien lo va a levantar.
+
+---
+
 *Diplomatura en Data Analytics — Universidad Nacional del Nordeste (UNNE)*

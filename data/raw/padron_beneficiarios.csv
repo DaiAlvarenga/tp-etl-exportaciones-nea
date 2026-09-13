@@ -1,0 +1,341 @@
+documento,nombre,direccion,localidad,provincia,telefono,edad,fecha_nac
+44347840,juan pérez,Pellegrini 4740,Resistencia,Chaco,+54 362 4451278,45,12/03/1981
+16580132,MARÍA GÓMEZ,Entre Ríos 2624,Corrientes,Corrientes,+54 379 4223344,38 años,04/07/1988
+16017314,ana lopez,López y Planes 3797,Formosa,Formosa,+54 370 4421509,52,03/11/1973
+43450754,SOFÍA MEZA,Salta 4072,Corrientes,Corrientes,+54 379 8809320,26,14-02-00
+16883784,ELENA ORTIZ,Entre Ríos 1216,Posadas,Misiones,+54 376 7848648,35,14/10/1990
+42137958,Raúl Sanabria,Av. Alberdi 2461,Posadas,Misiones,+54 376 8753477,,14-07-96
+12256196,  Rosa  Coronel ,Av. Los Inmigrantes 855,Formosa,Formosa,0370 152 671475,28,1998-05-11
+19821964,Ricardo Barrios,Av. Sarmiento 3746,Resistencia,Chaco,3629084520,53 años,03/01/1973
+43016817,ARIEL CÁCERES,Rivadavia 3924,Fontana,Chaco,3622294866,36,05/12/1989
+35233348,  Elena  Ojeda ,Belgrano 470,Barranqueras,Chaco,(0362) 754-7517, 81 ,13/02/1945
+21457738,Ramón Giménez,Av. Alberdi 3602,Corrientes,Corrientes,+54 379 0320807,71 años,17/10/1954
+11373707,ricardo gauna,Av. Alberdi 4284,Posadas,Misiones,+54 376 8616425,72,17/11/1953
+43393532,Alberto Espínola,Av. Los Inmigrantes 1499,Barranqueras,Chaco,+54 362 1330175,32 años,10/07/1994
+22244110,Julio Ortiz,Juan D. Perón 2931,Corrientes,Corrientes,(0379) 893-9494,80,28/06/1946
+16808579,marta acosta,"Pellegrini 1453, Piso 1",Posadas,Misiones,0376 158 549145,31,04/05/1995
+14219743,Alberto Maidana,Mitre 3445,Barranqueras,Chaco,+54 362 8955799,81,28/07/1945
+24471102,  Verónica  Insaurralde ,San Martín 3115,Resistencia,Chaco,(0362) 506-0454,43,14-08-83
+37960002,Laura Ibarra,Av. Italia 1667,Posadas,Misiones,0376 152 859406,60,01/10/1965
+37870183,Diego Duarte,Pellegrini 1848,Formosa,Formosa,+54 370 8642300,57 años,08/07/1969
+38043436,  Julio  Gauna ,Belgrano 1518,Fontana,Chaco,(0362) 850-0370,65,05/06/1961
+20123159,SUSANA MIÑO,Santa María de Oro 2998,Barranqueras,Chaco,+54 362 5778794,21,28/12/2004
+37550753,jorge ledesma,Ameghino 4336,Barranqueras,Chaco,0362 154 210839,72,01/08/1954
+36392307,Ramón López,"Juan D. Perón 4217, Piso 3",Fontana,Chaco,0362 159 324484,56,17/09/1969
+22663251,diego almirón,Entre Ríos 3512,Fontana,Chaco,0362 158 025822,s/d,01/11/1992
+10133727,Laura Miño,"Ameghino 2529, Piso 3",Resistencia,Chaco,(0362) 116-4941,28,03/06/1998
+18116053,Pablo Leguizamón,Ameghino 3785,Fontana,Chaco,+54 362 4432568, 45 ,1980-09-08
+43097707,Cecilia Insaurralde,Av. Alberdi 3842,Formosa,Formosa,(0370) 963-2792,56 años,06/06/1970
+17908516,  Gabriela  Zalazar ,"Av. Los Inmigrantes 2209, Piso 5",Corrientes,Corrientes,+54 379 4976608,61,27/05/1965
+37491830,cecilia paredes,Entre Ríos 4526,Posadas,Misiones,+54 376 2048425,60,22/02/1966
+37824843,beatriz giménez,"Entre Ríos 2825, Piso 4",Formosa,Formosa,(0370) 378-4951, 28 ,28/08/1998
+10764580,Nicolás Ojeda,"Rivadavia 3846, Piso 3",Formosa,Formosa,0370 159 821046,75,11/03/1951
+44455452,Patricia Vallejos,Av. Italia 2864,Resistencia,Chaco,(0362) 072-0754,,1959-08-22
+28363320,RICARDO BOGADO,López y Planes 1838,Corrientes,Corrientes,0379 158 847918,48 años,13/12/1977
+42831976,  Osvaldo  Insaurralde ,"Ameghino 1534, Piso 3",Formosa,Formosa,0370 156 193073, 60 ,11/11/1965
+18488302,claudia miño,"Mitre 4052, Piso 6",Barranqueras,Chaco,+54 362 3298222,49,26/04/1977
+12316857,Ramón Ruiz,Juan D. Perón 1190,Posadas,Misiones,+54 376 0226978,64,27/05/1962
+44532708,Natalia Escobar,"Av. Los Inmigrantes 3382, Piso 6",Resistencia,Chaco,+54 362 5945028,58,03/09/1968
+39066996,SOFÍA CORONEL,"Rivadavia 4101, Piso 3",Barranqueras,Chaco,+54 362 5347897,69 años,08/03/1957
+17774753,  Silvina  Ojeda ,"Juan D. Perón 993, Piso 7",Resistencia,Chaco,+54 362 2445607, 33 ,12/02/1993
+33768819,Lucía Aguirre,Güemes 4634,Formosa,Formosa,+54 370 8541775,50,04/03/1976
+16597565,  Elena  Rolón ,Av. 9 de Julio 709,Formosa,Formosa,+54 370 9797802,29,10/05/1997
+17056707,Diego Gómez,Mitre 199,Fontana,Chaco,0362 155 247357,56,06/02/1970
+26000879,Mariana Meza,Av. 9 de Julio 4055,Posadas,Misiones,+54 376 6780736,49,14/06/1977
+41233889,ANA ROLÓN,Rivadavia 4320,Posadas,Misiones,0376 158 281953,31,10/03/1995
+21412717,"Pérez, Juan Manuel","Av. 9 de Julio 1240, Piso 2",Formosa,Formosa,+54 370 2845142,52,26/07/1974
+17763780,silvina velázquez,Av. 9 de Julio 2963,Resistencia,Chaco,3620370412,s/d,18/08/2002
+23730449,luis aguirre,Av. 9 de Julio 3911,Posadas,Misiones,+54 376 8983708,81,20/05/1945
+36372446,Fernando Toledo,Av. 9 de Julio 173,Fontana,Chaco,(0362) 283-8564,52,08/02/1974
+41414295,Beatriz Fernández,Belgrano 1117,Posadas,Misiones,(0376) 252-7812,76,1950-01-12
+43421478,oscar benítez,Av. Italia 4246,Resistencia,Chaco,+54 362 1634999,41,22/07/1985
+10703675,Natalia Toledo,Juan D. Perón 3803,Barranqueras,Chaco,+54 362 8711209, 80 ,24/06/1946
+37361069,natalia romero,Av. Los Inmigrantes 2470,Formosa,Formosa,+54 370 3571647,21,01/05/2005
+39927035,Natalia Maidana,Entre Ríos 2478,Corrientes,Corrientes,0379 154 635213,33,14/10/1992
+32497476,  Diego  Fariña ,Av. Alberdi 4548,Corrientes,Corrientes,+54 379 7328409,39,13/09/1986
+38891002,Natalia Fernández,Av. Los Inmigrantes 3123,Barranqueras,Chaco,(0362) 858-4638,38 años,05/10/1987
+43958829,Sergio Ortiz,Santa María de Oro 4356,Formosa,Formosa,+54 370 3896501,59,1967-06-25
+42918879,Silvina Vera,Juan D. Perón 3617,Barranqueras,Chaco,+54 362 6179581, 42 ,16/07/1984
+30844389,Mariana Insaurralde,Belgrano 2849,Oberá,Misiones,+54 3755 387592,24,2002-01-04
+25884400,  Sofía  Duarte ,San Martín 4561,Resistencia,Chaco,+54 362 6177077,72,15/08/1954
+37357091,Miguel Ruiz,Belgrano 2145,Fontana,Chaco,+54 362 2994461,70,21/07/1956
+15087479,Fernando Bogado,Mitre 2664,Posadas,Misiones,(0376) 828-6408,54,1971-11-03
+40876179,Alberto Rolón,Mitre 1753,Formosa,Formosa,0370 154 441930,63,1963-07-24
+32658331,Osvaldo Fariña,San Martín 2806,Barranqueras,Chaco,+54 362 5679596,37,24/06/1989
+35927177,Juan Duarte,"Mitre 3980, Piso 7",Fontana,Chaco,+54 362 8015646,s/d,26/06/1992
+10149716,  Alejandra  Maidana ,"Belgrano 1924, Piso 6",Fontana,Chaco,3629889042,68,02/04/1958
+17821344,Daniel Escobar,"Belgrano 3229, Piso 8",Resistencia,Chaco,3624658730,37,04/02/1989
+27950515,Natalia Romero,"Santa María de Oro 449, Piso 7",Corrientes,Corrientes,0379 154 126347,41,06/09/1985
+23794665,Mirta Romero,López y Planes 304,Formosa,Formosa,+54 370 0591483,61,25-03-65
+16229934,Cecilia Maidana,"San Martín 4502, Piso 4",Barranqueras,Chaco,+54 362 2384164,61 años,18/09/1964
+34370514,Beatriz Gauna,Juan D. Perón 2996,Formosa,Formosa,3708085347,69,25/04/1957
+20190383,ana ibarra,San Martín 1752,Posadas,Misiones,+54 376 4420146,64,13/08/1962
+23594189,Ricardo Medina,"Av. Sarmiento 2631, Piso 6",Resistencia,Chaco,+54 362 5893059,22,01/09/2004
+42789104,Rosa Paredes,"Av. Italia 3024, Piso 5",Posadas,Misiones,(0376) 106-7090,37 años,02/07/1989
+41747933,Valeria Ortiz,Ameghino 1046,Corrientes,Corrientes,+54 379 7010875,56,23-02-70
+18876291,Verónica Medina,López y Planes 1519,Barranqueras,Chaco,+54 362 1665398,29,23/04/1997
+42862864,osvaldo ayala,Rivadavia 2759,Posadas,Misiones,0376 153 349677,65,23/06/1961
+16159157,Gabriela Núñez,Av. Los Inmigrantes 2803,Resistencia,Chaco,+54 362 5611410,41,09/01/1985
+31853401,diego godoy,Rivadavia 2223,Formosa,Formosa,+54 370 4747818,,11/10/1996
+36685388,Gabriela Aguirre,Belgrano 3083,Barranqueras,Chaco,(0362) 005-2007,81,13/03/1945
+17263107,María Cáceres,"Güemes 4086, Piso 4",Resistencia,Chaco,+54 362 8778166,53,07/01/1973
+36891046,  Miguel  Ibarra ,"Belgrano 91, Piso 4",Resistencia,Chaco,+54 362 3004263,66,03/06/1960
+43054131,  Sofía  Coronel ,Juan D. Perón 2055,Corrientes,Corrientes,+54 379 1297705,75,12/06/1951
+21378500,Osvaldo Vera,Salta 603,Corrientes,Corrientes,0379 157 186158,67,28/10/1958
+17126936,Diego Cáceres,Av. Sarmiento 3348,Resistencia,Chaco,+54 362 6351676,,16/05/2003
+41127572,  Valeria  Insaurralde ,Belgrano 1181,Formosa,Formosa,+54 370 2643662,69,18/05/1957
+11668025,  Jorge  Ayala ,Juan D. Perón 171,Formosa,Formosa,0370 152 042628,38 años,26/10/1987
+11694181,lucía sanabria,Ameghino 411,Barranqueras,Chaco,0362 158 704151,30,26/11/1995
+17063035,Julio Ruiz,Güemes 2859,Corrientes,Corrientes,+54 379 3782760,67 años,24/04/1959
+16409363,Raúl Acosta,"San Martín 1482, Piso 6",Posadas,Misiones,+54 376 8696953,36,13/10/1989
+42931533,fernando acosta,"Av. Italia 2676, Piso 4",Fontana,Chaco,0362 150 637171,63,28/07/1963
+28124300,Laura Fernández,Ameghino 645,Posadas,Misiones,(0376) 801-5431,s/d,21/04/1959
+23049286,Luis López,Güemes 1499,Corrientes,Corrientes,+54 379 1148294,22,01/11/2003
+29387096,Raúl Cabrera,Salta 1141,Resistencia,Chaco,3625212223,73,1952-10-01
+35334655,Elena Ortiz,Av. Los Inmigrantes 4027,Posadas,Misiones,+54 376 6854242,68,26/08/1958
+14727144,Claudia Aguirre,Entre Ríos 2593,Corrientes,Corrientes,(0379) 713-9360,40,1985-12-06
+11420409,Andrea Zalazar,"Ameghino 3764, Piso 7",Posadas,Misiones,+54 376 8792687,62,13/10/1963
+36929367,Miguel Pérez,Santa María de Oro 2549,Corrientes,Corrientes,+54 379 8326607,63,10/05/1963
+35623740,  Oscar  Miño ,"López y Planes 4524, Piso 3",Fontana,Chaco,+54 362 2098769,0,14/02/1967
+43406121,Mariana Velázquez,Av. Sarmiento 4709,Fontana,Chaco,0362 158 220701,76,01/02/1950
+19716048,Claudia Giménez,López y Planes 1576,Posadas,Misiones,+54 376 2443177,41,09-09-84
+28213177,Claudia Almirón,Av. Alberdi 975,Fontana,Chaco,+54 362 1534479,68,21/03/1958
+18944796,Verónica Villalba,Juan D. Perón 566,Posadas,Misiones,(0376) 266-8692,40,28/06/1986
+24766071,  Lucía  Benítez ,San Martín 1458,Barranqueras,Chaco,+54 362 2952920,48,25/04/1978
+32565504,Sergio Fernández,Salta 1601,Corrientes,Corrientes,+54 379 0645011,57,16/06/1969
+29258886,Andrea Giménez,Pellegrini 3005,Fontana,Chaco,+54 362 7485148,55 años,27/01/1971
+23894843,JUAN SOSA,"Ameghino 3560, Piso 1",Resistencia,Chaco,(0362) 195-9610,,03/04/1996
+32640383,  Carlos  Sosa ,"López y Planes 3153, Piso 2",Resistencia,Chaco,3629210254,36,09/05/1990
+21022360,ANA LEDESMA,Belgrano 4556,Formosa,Formosa,(0370) 531-4237,20,27/11/2005
+35665175,Fernando Cabrera,Av. Los Inmigrantes 4688,Posadas,Misiones,3762474480,39,25-10-86
+43651688,Norma Aguirre,Ameghino 3043,Fontana,Chaco,+54 362 5284561,78 años,13/12/1947
+24385172,Daniel Velázquez,"Ameghino 3318, Piso 6",Formosa,Formosa,+54 370 2669814,65,21/01/1961
+14998173,Silvina Godoy,Mitre 1866,Posadas,Misiones,+54 376 8869180,51,03/10/1974
+15036479,Nicolás Aguirre,Belgrano 1938,Fontana,Chaco,(0362) 563-1439,,27/07/1978
+37055420,Andrea Aguirre,Av. 9 de Julio 3707,Posadas,Misiones,+54 376 4664122,33,17/02/1993
+28009598,PATRICIA MIÑO,"Av. Italia 4580, Piso 3",Resistencia,Chaco,(0362) 781-7688,46,05/06/1980
+37018383,Raúl Maidana,Entre Ríos 3805,Corrientes,Corrientes,3790554836,31,04/11/1994
+43147234,Carlos Toledo,Belgrano 3259,Corrientes,Corrientes,+54 379 7483640,49,07/06/1977
+14798844,Diego Pérez,Juan D. Perón 1178,Barranqueras,Chaco,+54 362 0777854,45,15/02/1981
+15865441,  Pablo  Cáceres ,"Santa María de Oro 4768, Piso 4",Fontana,Chaco,0362 157 451435,80,28/02/1946
+23974088,LAURA INSAURRALDE,Av. Los Inmigrantes 1598,Resistencia,Chaco,+54 362 1473231,49,17/11/1976
+19120219,Gabriela Bogado,Entre Ríos 991,Barranqueras,Chaco,0362 154 309642,s/d,16/09/2005
+23782434,jorge ibarra,Av. Alberdi 1662,Formosa,Formosa,+54 370 8149574,,10/02/1998
+35652895,  Luis  Insaurralde ,Entre Ríos 661,Fontana,Chaco,+54 362 4265116,56,28/03/1970
+32773470,  Verónica  Giménez ,Av. 9 de Julio 1501,Barranqueras,Chaco,+54 362 6594605,47,12/04/1979
+44290613,Sofía Ledesma,"Av. 9 de Julio 3761, Piso 7",Fontana,Chaco,+54 362 2348883,67,01/01/1959
+36841730,Jorge Romero,Av. 9 de Julio 4305,Resistencia,Chaco,+54 362 5906192,36 años,09/06/1990
+31813381,martín bogado,Rivadavia 2208,Barranqueras,Chaco,+54 362 9559392,67,10-06-59
+41135128,Julio Benítez,Pellegrini 797,Formosa,Formosa,(0370) 526-8057,78,07/12/1947
+32010136,Daniel Ruiz,Av. Alberdi 3927,Formosa,Formosa,+54 370 2575370,35 años,1991-02-22
+11784597,Pablo Ojeda,Av. 9 de Julio 4455,Posadas,Misiones,+54 376 4527436,49,19/01/1977
+27900026,Marta Pérez,López y Planes 889,Posadas,Misiones,+54 376 1521657,68,02/02/1958
+20344130,Martín Duarte,Belgrano 4349,Corrientes,Corrientes,0379 153 299077,55,12/01/1971
+25018271,Osvaldo Ramírez,"Av. Italia 4136, Piso 7",Resistencia,Chaco,+54 362 6447978,21,15/02/2005
+43840345,rosa coronel,San Martín 3869,Barranqueras,Chaco,0362 152 365966,43,25/11/1982
+26606398,Patricia Coronel,Mitre 3810,Resistencia,Chaco,+54 362 3743663,22,11/08/2004
+36471083,Natalia Maidana,San Martín 4196,Resistencia,Chaco,+54 362 5404915,75,1951-09-03
+37856614,Patricia Ramírez,Av. Sarmiento 3876,Barranqueras,Chaco,0362 151 736751, 38 ,16/09/1987
+20670039,rosa paredes,Av. Italia 3564,Barranqueras,Chaco,+54 362 0012026,58,21/06/1968
+41019189,Patricia Villalba,Pellegrini 3262,Corrientes,Corrientes,(0379) 316-4891,68,15/07/1958
+28720055,RAÚL PAREDES,Av. Alberdi 3906,Formosa,Formosa,3702245900,22,20/01/2004
+30854384,martín sosa,Av. Sarmiento 4121,Clorinda,Formosa,+54 3718 043974,39,18-12-86
+33484531,Juan Romero,Pellegrini 433,Fontana,Chaco,3621904708,71,19/02/1955
+25768249,Daniel Benítez,Mitre 4760,Corrientes,Corrientes,0379 156 249217,51,02/06/1975
+43906975,María Villalba,Av. Italia 2209,Posadas,Misiones,0376 154 522250,35 años,1991-08-10
+31969947,Alberto Escobar,Pellegrini 408,Posadas,Misiones,+54 376 1683995,75 años,15/10/1950
+39223072,RAÚL RAMÍREZ,"Mitre 4199, Piso 4",Corrientes,Corrientes,3795300502,70,01/02/1956
+40456396,Mirta Leguizamón,López y Planes 4200,Posadas,Misiones,+54 376 0232093,23,15/06/2003
+27966205,Claudia Bogado,"Entre Ríos 717, Piso 4",Resistencia,Chaco,+54 362 7204533,,28-08-04
+16413889,Verónica Sosa,Av. Alberdi 1597,Resistencia,Chaco,0362 151 206661, 65 ,1961-05-28
+31872925,JUAN MEDINA,Rivadavia 1294,Barranqueras,Chaco,+54 362 0146576,59,21/10/1966
+33851799,Diego Coronel,Belgrano 1708,Resistencia,Chaco,(0362) 203-2588,37 años,09/03/1989
+41874125,Beatriz Acosta,Av. Alberdi 1718,Barranqueras,Chaco,+54 362 9492442,75,26/07/1951
+18102918,Gabriela Godoy,"Entre Ríos 3916, Piso 1",Resistencia,Chaco,3625799961,31 años,1995-04-11
+23000187,Nicolás Insaurralde,"Av. Italia 3010, Piso 2",Formosa,Formosa,0370 158 728540,77,28/10/1948
+37475138,  Alejandra  Insaurralde ,"Pellegrini 954, Piso 3",Resistencia,Chaco,(0362) 684-4558,52 años,1974-03-04
+14581956,Nicolás Maidana,Av. 9 de Julio 4320,Posadas,Misiones,+54 376 9439491,42,16/06/1984
+10225081,Miguel Cáceres,Mitre 3972,Posadas,Misiones,(0376) 404-9180,50,03-01-76
+32700801,Susana Escobar,"Belgrano 4689, Piso 7",Fontana,Chaco,+54 362 8420340,24,02/12/2001
+16668574,Oscar Núñez,"Entre Ríos 3769, Piso 4",Corrientes,Corrientes,+54 379 0011087,58,10/03/1968
+43464923,Fernando López,Av. Sarmiento 980,Fontana,Chaco,+54 362 1727172, 21 ,25/01/2005
+29022129,Natalia Insaurralde,Ameghino 1209,Barranqueras,Chaco,+54 362 0026440,45,09/01/1981
+38428840,marta sosa,"Av. Alberdi 3278, Piso 7",Posadas,Misiones,0376 154 965679,43,21/06/1983
+16643775,andrea ledesma,Pellegrini 2464,Formosa,Formosa,+54 370 2575509,51,09/10/1974
+26622919,Ana Vallejos,Ameghino 2287,Resistencia,Chaco,+54 362 0777394, 79 ,10-04-47
+18248411,  María  Bogado ,Salta 893,Fontana,Chaco,+54 362 4075122,61 años,07/12/1964
+32825706,Beatriz Gómez,Av. 9 de Julio 1988,Formosa,Formosa,0370 152 685721,21,21/07/2005
+17134991,Carlos Bogado,San Martín 3384,Barranqueras,Chaco,0362 151 703369,53 años,25/11/1972
+36322857,  Osvaldo  Medina ,Santa María de Oro 2600,Posadas,Misiones,+54 376 3427556,59,1967-04-17
+27011076,susana cabrera,"Av. 9 de Julio 1354, Piso 3",Resistencia,Chaco,0362 153 178571,44,28/07/1982
+27288042,alberto fernández,Salta 2245,Resistencia,Chaco,+54 362 2853959,42 años,18-02-84
+22083199,Mirta Ojeda,"Av. Alberdi 898, Piso 6",Formosa,Formosa,+54 370 2775216,73,20-07-53
+27627957,SOFÍA AGUIRRE,Rivadavia 2351,Barranqueras,Chaco,+54 362 9999596,s/d,1991-07-04
+38134713,alberto medina,Av. Italia 2351,Fontana,Chaco,+54 362 2386162,150,12/01/1954
+35499887,elena ayala,Av. Italia 141,Fontana,Chaco,3624936863,35,10/07/1991
+13249113,Lucía Velázquez,San Martín 3856,Corrientes,Corrientes,3796818812,78,10/07/1948
+27981719,  Claudia  Ortiz ,"Belgrano 906, Piso 6",Resistencia,Chaco,(0362) 751-4293,76,16/10/1949
+22043529,beatriz ayala,"Av. Sarmiento 4655, Piso 1",Resistencia,Chaco,+54 362 8607196,24,2002-05-03
+44199507,verónica espínola,Salta 2319,Fontana,Chaco,0362 150 254412,32,04/04/1994
+28912391,Miguel Gauna,Mitre 2801,Resistencia,Chaco,+54 362 6879011,81,11/06/1945
+32775312,héctor ramírez,Av. Los Inmigrantes 4764,Barranqueras,Chaco,+54 362 7186841,50,1975-09-20
+35071332,claudia rolón,"Av. Sarmiento 1915, Piso 8",Posadas,Misiones,+54 376 5100546,43,19/07/1983
+37110680,osvaldo vallejos,"López y Planes 3252, Piso 6",Fontana,Chaco,+54 362 7853812,22,18/06/2004
+28134623,  Verónica  Godoy ,Santa María de Oro 216,Formosa,Formosa,0370 154 861241,52,21-07-74
+26336271,Lucía Aguirre,"Av. 9 de Julio 1791, Piso 8",Fontana,Chaco,+54 362 9032719,29,1996-09-23
+27523545,  Pablo  Fernández ,Juan D. Perón 4305,Barranqueras,Chaco,+54 362 0364270,31,28/04/1995
+31764031,Rosa Insaurralde,Belgrano 2820,Fontana,Chaco,+54 362 2391131,64,1962-01-18
+13237833,Ana Fariña,Entre Ríos 2207,Corrientes,Corrientes,+54 379 3149850,26,12/12/1999
+21740246,Silvina Maidana,López y Planes 203,Formosa,Formosa,+54 370 9284631,25,01/04/2001
+40241979,Luis Romero,"Juan D. Perón 3537, Piso 1",Barranqueras,Chaco,+54 362 4465122,38,1988-08-19
+42861080,Jorge Bogado,Belgrano 3837,Formosa,Formosa,+54 370 5548608,42,17/01/1984
+20041357,Beatriz Ortiz,"Juan D. Perón 1658, Piso 5",Resistencia,Chaco,+54 362 3442531, 34 ,26/03/1992
+30233129,Juan Sosa,"Mitre 1792, Piso 2",Barranqueras,Chaco,0362 153 823283,40 años,05/02/1986
+43656101,PABLO IBARRA,"Belgrano 1481, Piso 3",Corrientes,Corrientes,+54 379 7304652,58,27/01/1968
+22791837,Norma López,Av. Italia 2732,Barranqueras,Chaco,+54 362 3383990,59,01/10/1966
+39122361,Natalia Ramírez,"Av. Alberdi 1516, Piso 7",Formosa,Formosa,+54 370 8896178,62,03/05/1964
+15307225,Ana Aguirre,Av. 9 de Julio 3434,Fontana,Chaco,+54 362 3161759,42 años,13/05/1984
+13532392,Laura Zalazar,Juan D. Perón 752,Resistencia,Chaco,+54 362 9459971, 40 ,01/07/1986
+29610988,Luis Coronel,Av. Sarmiento 4564,Formosa,Formosa,0370 154 465370,53,08/04/1973
+35677889,Juan Pérez,Av. Alberdi 4682,Clorinda,Formosa,+54 3718 501783,s/d,04/01/1954
+26763068,Valeria Almirón,Santa María de Oro 4615,Posadas,Misiones,3760761342,68,26/12/1957
+27609384,  Rosa  Villalba ,Ameghino 2675,Resistencia,Chaco,+54 362 6776344,73,1952-11-13
+11818511,marta sosa,Rivadavia 2909,Formosa,Formosa,0370 155 446443,70,07/12/1955
+29816126,PATRICIA CÁCERES,"Av. Sarmiento 2058, Piso 5",Barranqueras,Chaco,0362 155 720710,35,24-04-91
+36039915,Beatriz Cabrera,Av. Sarmiento 1696,Resistencia,Chaco,0362 158 669415,23 años,16/03/2003
+37734747,Ricardo Medina,Av. Italia 2582,Fontana,Chaco,+54 362 1547712,30,07/12/1995
+30143780,rosa paredes,"San Martín 331, Piso 3",Posadas,Misiones,0376 158 889510,s/d,05-03-70
+26438668,JULIO ACOSTA,Mitre 4503,Formosa,Formosa,(0370) 146-5258,72 años,26/06/1954
+25730286,patricia maidana,Belgrano 4608,Barranqueras,Chaco,+54 362 8424915,29 años,08/07/1997
+15427143,elena sanabria,Av. Sarmiento 3305,Formosa,Formosa,+54 370 9425649,35,03/09/1991
+27349213,RICARDO BOGADO,"Pellegrini 1558, Piso 8",Barranqueras,Chaco,3625926029, 59 ,21/06/1967
+23346988,Jorge Zalazar,Av. Italia 1818,Barranqueras,Chaco,+54 362 4289429,47,04/06/1979
+25330471,  Susana  Gauna ,Av. Alberdi 3597,Formosa,Formosa,0370 159 200299,26,18/04/2000
+31527792,MARTA BENÍTEZ,Ameghino 496,Corrientes,Corrientes,+54 379 7859739,s/d,17/08/1964
+14356181,Carlos  Ruiz,"San Martín 3745, Piso 6",CABA,Buenos Aires,+54 11 4567 8901,s/d,22/09/1966
+19704107,elena espínola,Av. Sarmiento 3476,Resistencia,Chaco,+54 362 8453810,59,09/03/1967
+15397488,Ramón Miño,Entre Ríos 424,Fontana,Chaco,+54 362 3279603,69 años,03/05/1957
+33659390,Marta Paredes,Rivadavia 1640,Resistencia,Chaco,+54 362 7028524,53,1973-07-27
+20028003,Sofía Cabrera,Av. Alberdi 2510,Posadas,Misiones,(0376) 241-5468,33,1993-05-17
+22005465,MARTÍN MIÑO,Av. 9 de Julio 3121,Barranqueras,Chaco,+54 362 0240944,,10/06/1968
+43354644,Alejandra Ledesma,Av. Alberdi 4792,Resistencia,Chaco,+54 362 0171417,64,03/02/1962
+12463297,Cecilia Velázquez,Mitre 4733,Corrientes,Corrientes,+54 379 9416837,,09/02/1997
+39150270,julio godoy,Güemes 4506,Resistencia,Chaco,0362 159 958470,61,21/09/1964
+30406868,Claudia Zalazar,Mitre 2777,Barranqueras,Chaco,+54 362 9642775,65,05/12/1960
+41841445,rubén ferreyra,Juan D. Perón 3915,Resistencia,Chaco,+54 362 2269518,37,16-05-89
+30484848,Rubén Gómez,Salta 3805,Barranqueras,Chaco,0362 153 431255,51 años,08/03/1975
+21856593,Mirta López,Entre Ríos 4132,Posadas,Misiones,+54 376 5547225,33,1993-03-05
+18966496,Alejandra Espínola,Salta 4135,Corrientes,Corrientes,+54 379 2993351,75,15/09/1950
+39949569,Pablo Almirón,Santa María de Oro 2749,Corrientes,Corrientes,0379 157 699811,63,23/06/1963
+14280404,sofía ledesma,Av. Alberdi 794,Formosa,Formosa,+54 370 7178656,37,15/03/1989
+35941925,Carlos Ruiz,Av. Alberdi 2082,Resistencia,Chaco,+54 362 2030232,54,24/03/1972
+44742132,Pablo Ruiz,López y Planes 178,Fontana,Chaco,+54 362 2857239, 27 ,27/08/1999
+15539824,SILVINA GODOY,"Santa María de Oro 202, Piso 5",Corrientes,Corrientes,+54 379 6885470,72,20/02/1954
+39464298,Oscar Gauna,Av. Los Inmigrantes 3338,Posadas,Misiones,+54 376 9976256, 49 ,12/01/1977
+33189636,Osvaldo Sosa,Av. Sarmiento 3885,Posadas,Misiones,+54 376 3667453,75 años,1951-08-11
+38808582,Ana Ortiz,Güemes 376,Corrientes,Corrientes,+54 379 3997246,51,18/03/1975
+41801014,Lucía Coronel,"Salta 2615, Piso 5",Barranqueras,Chaco,3622264103,66,23/08/1960
+43246051,Cecilia Benítez,Av. Alberdi 2935,Posadas,Misiones,+54 376 0112500,,10/01/1987
+11822258,Rubén Godoy,Av. Sarmiento 4257,Corrientes,Corrientes,+54 379 6352318, 21 ,05/09/2005
+28318613,Verónica Cáceres,Rivadavia 4122,Resistencia,Chaco,+54 362 5259061,21,16/01/2005
+28111385,Ariel Meza,Av. Italia 3939,Corrientes,Corrientes,+54 379 5512629,34 años,03-02-92
+25687262,Daniel Zalazar,"Entre Ríos 2867, Piso 1",Fontana,Chaco,0362 152 884206,66,21/09/1959
+26580250,Ana Zalazar,"Mitre 3765, Piso 2",Barranqueras,Chaco,+54 362 6073542,65,28/06/1961
+13063232,valeria pérez,Av. Alberdi 1981,Resistencia,Chaco,+54 362 7440187,36,07/09/1990
+43265547,héctor cáceres,"Mitre 451, Piso 5",Formosa,Formosa,3708998767,80,1946-03-27
+14011336,fernando núñez,Belgrano 3257,Corrientes,Corrientes,3797900592,54,25/01/1972
+40234151,claudia zalazar,Güemes 2753,Fontana,Chaco,+54 362 5374183,79 años,12/09/1946
+22140891,Sofía López,"Rivadavia 1551, Piso 8",Corrientes,Corrientes,+54 379 4726603, 65 ,20/12/1960
+35524760,Sergio Gómez,Mitre 576,Formosa,Formosa,(0370) 275-8147,80,01/09/1946
+29797760,Elena Escobar,Santa María de Oro 3765,Posadas,Misiones,+54 376 5035161,72,28/06/1954
+44518980,María Ledesma,Salta 4107,Posadas,Misiones,+54 376 5225270,20,11/10/2005
+37357772,ANA ROMERO,Mitre 2161,Fontana,Chaco,+54 362 5054930,37,22/12/1988
+23077246,ricardo gómez,Av. Alberdi 1494,Barranqueras,Chaco,(0362) 973-7911,39,17/03/1987
+20385967,Silvina Duarte,Pellegrini 2946,Barranqueras,Chaco,(0362) 586-9158,74,02/08/1952
+32692575,Silvina Leguizamón,Juan D. Perón 1079,Formosa,Formosa,(0370) 112-0831,54,18/08/1972
+12435484,Sergio Paredes,Güemes 2059,Resistencia,Chaco,(0362) 447-1532,,26/11/1964
+10764580,Beatriz Romero,Mitre 2531,Barranqueras,Chaco,+54 362 6297218,45,16/05/1981
+44103636,Sergio Cabrera,Av. 9 de Julio 4173,Posadas,Misiones,+54 376 5407921,55,12/02/1971
+34002758,laura vera,Rivadavia 4559,Posadas,Misiones,3768348851,44,21/02/1982
+44180329,Ariel Pérez,Santa María de Oro 1372,Posadas,Misiones,+54 376 0211974, 29 ,27-06-97
+25473246,Claudia Medina,Ameghino 3193,Formosa,Formosa,+54 370 5548692,35,12-06-91
+29725401,Andrea Romero,Juan D. Perón 950,Posadas,Misiones,+54 376 3089998, 59 ,08/08/1967
+15998541,Sofía Romero,"San Martín 3546, Piso 7",Corrientes,Corrientes,(0379) 138-6941, 76 ,21/04/1950
+16216748,Sergio López,"Av. Sarmiento 3047, Piso 2",Barranqueras,Chaco,+54 362 4095025,54 años,10/11/1971
+36323687,Diego Insaurralde,Mitre 388,Formosa,Formosa,+54 370 3355883,28,11/11/1997
+12229580,Laura Medina,"Entre Ríos 2151, Piso 4",Fontana,Chaco,0362 150 421905,59,11/06/1967
+41146802,ROSA SOSA,Salta 2186,Barranqueras,Chaco,+54 362 6097302,39,07/05/1987
+38716293,Emilio Sosa,"Salta 3249, Piso 3",Posadas,Misiones,(0376) 144-1345,59,14/03/1967
+26977172,  Ana  Espínola ,Av. Alberdi 2338,Clorinda,Formosa,(03718) 951-222,68,28-03-58
+27537949,  Miguel  Ruiz ,"Av. Los Inmigrantes 4359, Piso 8",Posadas,Misiones,+54 376 0347107,29,21/11/1996
+17407523,Andrea Pérez,Belgrano 688,Barranqueras,Chaco,0362 151 394423,21,26/11/2004
+11637423,cecilia aguirre,Belgrano 4602,Corrientes,Corrientes,0379 150 497459,56 años,16/02/1970
+14331293,carlos almirón,Salta 814,Fontana,Chaco,+54 362 3413936,79,03/09/1947
+30121426,Andrea Coronel,Ameghino 4417,Fontana,Chaco,0362 153 096362,23,13-04-03
+11037466,  Nicolás  Gauna ,"San Martín 3700, Piso 7",Corrientes,Corrientes,+54 379 9586070,78,19/12/1947
+17047569,  Sergio  Toledo ,Av. Sarmiento 4544,Fontana,Chaco,+54 362 6536954,32,10/12/1993
+14365528,Laura Villalba,Ameghino 1433,Resistencia,Chaco,(0362) 251-0597,80 años,22/10/1945
+28150217,Julio Ruiz,Av. Los Inmigrantes 3700,Formosa,Formosa,+54 370 4722036,s/d,20/04/1957
+13340133,rosa aguirre,Rivadavia 4195,Barranqueras,Chaco,3626240188,,1995-08-25
+10989360,Rosa Benítez,"Av. Los Inmigrantes 1202, Piso 6",Corrientes,Corrientes,0379 157 651185,s/d,14/02/1946
+32313041,Ana Vallejos,Ameghino 181,Formosa,Formosa,+54 370 0200862,64 años,09/01/1962
+28884319,Diego Godoy,Mitre 1251,Resistencia,Chaco,(0362) 257-5988,,25/03/1994
+41765385,Patricia Miño,Entre Ríos 3687,Fontana,Chaco,0362 159 093019, 23 ,03/08/2003
+30458413,FERNANDO LÓPEZ,Rivadavia 1828,Posadas,Misiones,0376 159 253959,s/d,21/08/1946
+26406387,Lucía Cabrera,Santa María de Oro 970,Corrientes,Corrientes,0379 150 486521,38 años,1987-09-13
+12667873,Oscar Insaurralde,Pellegrini 1100,Barranqueras,Chaco,0362 151 495821, 23 ,01/12/2002
+18933002,Mirta Barrios,"Av. Alberdi 3110, Piso 7",Barranqueras,Chaco,+54 362 3225032,49,25/07/1977
+41184818,luis ferreyra,Rivadavia 2783,Posadas,Misiones,(0376) 442-1509,62,18/05/1964
+13520118,Emilio Ledesma,"Av. Alberdi 3919, Piso 5",Resistencia,Chaco,0362 150 832495,34,27/11/1991
+35403148,Héctor Bogado,Salta 3719,Corrientes,Corrientes,+54 379 0879336, 54 ,20-06-72
+12466148,Fernando Sosa,Av. Los Inmigrantes 2124,Corrientes,Corrientes,0379 154 385225,34 años,09/07/1992
+19600718,Mirta Ojeda,Av. Alberdi 2470,Resistencia,Chaco,+54 362 7462096,54,01/02/1972
+38927581,fernando toledo,Av. Sarmiento 2181,Formosa,Formosa,0370 156 021673,23,28-05-03
+31677732,NORMA MAIDANA,López y Planes 323,Resistencia,Chaco,0362 155 532053,s/d,15/06/1975
+15895474,Laura Ortiz,Av. Los Inmigrantes 2637,Formosa,Formosa,+54 370 2012743,78,11/05/1948
+18197274,Sergio Núñez,Salta 231,Fontana,Chaco,0362 155 117235,s/d,08/07/1970
+42069751,oscar gauna,Pellegrini 4671,Resistencia,Chaco,+54 362 1320764,,1998-10-20
+23812267,Martín Ojeda,Mitre 3410,Resistencia,Chaco,0362 155 194237,,11/02/1993
+12410110,  Nicolás  Ortiz ,Juan D. Perón 4722,Barranqueras,Chaco,0362 156 364690,58 años,18/09/1967
+41647309,ana ibarra,Salta 1875,Corrientes,Corrientes,+54 379 0262727,63 años,27-02-63
+30059310,  Andrea  López ,Ameghino 2973,Fontana,Chaco,+54 362 9903852, 39 ,17/11/1986
+32183656,  Elena  Aguirre ,"San Martín 2743, Piso 7",Fontana,Chaco,3625197552,62,1964-03-07
+11402263,SOFÍA BENÍTEZ,Ameghino 1786,Resistencia,Chaco,0362 154 887766,29,07/02/1997
+41669547,Héctor Villalba,Av. Italia 3127,Barranqueras,Chaco,+54 362 3302208,29,25/02/1997
+40525924,Beatriz Maidana,"Av. Los Inmigrantes 4734, Piso 7",Corrientes,Corrientes,+54 379 6250651,22,03/01/2004
+33258099,miguel cabrera,Salta 1518,Posadas,Misiones,+54 376 6437356,31,25/03/1995
+25416533,Diego Toledo,"Güemes 3085, Piso 8",Posadas,Misiones,+54 376 3157255,61,24/04/1965
+33662150,Alberto Ramírez,Av. Italia 4476,Barranqueras,Chaco,(0362) 197-4242,42 años,1983-10-11
+33996068,Rubén Sanabria,López y Planes 340,Fontana,Chaco,+54 362 5534853,66,15/11/1959
+27999532,alejandra paredes,Av. Alberdi 2553,Formosa,Formosa,+54 370 3510864,38,27/07/1988
+37190593,  Alejandra  Bogado ,Pellegrini 2351,Posadas,Misiones,+54 376 3915510,69,1957-04-17
+35897910,Natalia Gauna,Av. Los Inmigrantes 64,Corrientes,Corrientes,3798646053,,19/03/1984
+40268844,Beatriz Ferreyra,Belgrano 4474,Barranqueras,Chaco,0362 159 499381,25,03/05/2001
+17242881,Beatriz Sosa,San Martín 2343,Corrientes,Corrientes,+54 379 8513355,37,1988-09-15
+40273189,PABLO MEZA,Av. Sarmiento 3925,Barranqueras,Chaco,+54 362 3933922,22,2003-11-10
+14080428,jorge cáceres,Pellegrini 626,Posadas,Misiones,+54 376 2638797,73,01/09/1953
+16021299,Valeria Zalazar,Güemes 1095,Barranqueras,Chaco,3621724049,43,08/04/1983
+40589213,Ricardo Cabrera,Pellegrini 3190,Barranqueras,Chaco,3627843062,27,01/10/1998
+15471767,Luis Paredes,"Belgrano 3005, Piso 7",Formosa,Formosa,+54 370 1840737,42,16/09/1983
+32906304,martín ayala,"Santa María de Oro 1042, Piso 5",Barranqueras,Chaco,+54 362 4326589,60 años,1965-11-02
+43967238,ANDREA INSAURRALDE,Ameghino 2518,Formosa,Formosa,(0370) 579-3427,39 años,1986-12-10
+31621028,Susana Ledesma,Salta 4075,Fontana,Chaco,+54 362 6271244,74 años,03-11-51
+20549725,  Ramón  Duarte ,Güemes 3870,Barranqueras,Chaco,+54 362 0264915,s/d,1998-02-25
+27586733,Juan Zalazar,Pellegrini 4458,Barranqueras,Chaco,0362 150 548113, 54 ,16/08/1972
+27444802,andrea meza,Pellegrini 3686,Barranqueras,Chaco,+54 362 2111199,66,24/03/1960
+38058155,Norma Gómez,Belgrano 817,Barranqueras,Chaco,+54 362 3436387,,16/01/1993
+20547147,Raúl Núñez,Mitre 4688,Posadas,Misiones,+54 376 3014324,43,03/10/1982
+33243352,JORGE ROMERO,Juan D. Perón 4358,Corrientes,Corrientes,0379 153 653546,70,14/06/1956
+28441706,laura ortiz,"San Martín 857, Piso 4",Resistencia,Chaco,+54 362 8871415,s/d,28/12/1976
+29583463,miguel ramírez,Av. Alberdi 2798,Formosa,Formosa,+54 370 5121927,s/d,06/07/1983
+16791338,Mariana Coronel,Belgrano 541,Formosa,Formosa,+54 370 5034513,41,14/08/1985
+38901219,Natalia Leguizamón,Santa María de Oro 3212,Posadas,Misiones,+54 376 9446411,65,25/11/1960
+25223467,gabriela duarte,Ameghino 3826,Resistencia,Chaco,+54 362 8101660,,05/02/2001
+12119792,Ariel Toledo,Belgrano 1966,Resistencia,Chaco,(0362) 660-6051,29,26/07/1997
+22553067,Silvina Paredes,Av. Alberdi 508,Resistencia,Chaco,+54 362 1157896,29,10/11/1996
+20618966,Martín Escobar,López y Planes 1353,Barranqueras,Chaco,(0362) 973-2751,73,26/11/1952
+37961110,  Juan  Cabrera ,Rivadavia 1099,Fontana,Chaco,+54 362 4553085,33,06/02/1993
+40472735,Ramón Insaurralde,Av. Sarmiento 3165,Barranqueras,Chaco,+54 362 8681500,,18/03/1986
+20984683,CARLOS VALLEJOS,Ameghino 1026,Fontana,Chaco,+54 362 3675644, 79 ,19/06/1947
+11900475,Luis Villalba,"López y Planes 521, Piso 6",Posadas,Misiones,+54 376 3090326, 25 ,18/03/2001
+14774447,Jorge Benítez,Ameghino 4574,Fontana,Chaco,+54 362 6507669,47,27/05/1979
