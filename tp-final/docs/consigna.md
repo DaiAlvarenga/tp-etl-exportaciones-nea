@@ -13,11 +13,6 @@ Vas a construir un **pipeline ETL** completo: un programa que se conecta a
 una API pública, transforma los datos crudos en un dataset analítico y lo
 guarda en disco, con controles de calidad y registro de lo que hizo.
 
-No es un ejercicio de juguete. Los datos son reales —exportaciones de las
-cuatro provincias del NEA publicadas por el INDEC— y el dataset que
-produzcas **lo vas a volver a usar en el módulo de estadística
-descriptiva**. Lo que armes acá es tu materia prima del módulo siguiente.
-
 ## 2. Qué se evalúa
 
 Este TP integra todo lo de la Unidad II:
@@ -43,7 +38,7 @@ Estado argentino (datos.gob.ar), con datos del INDEC.
 | Provincias | Chaco, Corrientes, Formosa y Misiones |
 | Período | 1993 – 2024 (32 años) |
 | Unidad | Millones de dólares FOB |
-| Documentación | `https://apis.datos.gob.ar/series/api/` |
+| Documentación | `https://datosgobar.github.io/series-tiempo-ar-api/` |
 
 No necesitás credenciales ni registrarte: es una API abierta.
 
@@ -51,7 +46,9 @@ No necesitás credenciales ni registrarte: es una API abierta.
 
 ### 4.1. Un repositorio propio en GitHub
 
-Partís del **template** que te damos (no arrancás de cero) y creás **tu propio repositorio**. La guía paso a paso está en `docs/guia-git.md`.
+Partís del **template** que te damos (no arrancás de cero) y creás **tu propio repositorio**. La guía paso a paso está en el documento *Guía Git/GitHub*:
+
+> `https://github.com/daianadte24/diplo_data-analytics_unne/blob/tp-final/tp-final/docs/guia-git.md`
 
 ### 4.2. El pipeline funcionando
 
@@ -63,7 +60,7 @@ Tres etapas separadas en archivos distintos:
 | `src/transform.py` | Limpiar, tipar, derivar columnas y unir | **8 TODOs** |
 | `src/load.py` | Validar y guardar CSV + JSON + log | **4 TODOs** |
 | `src/main.py` | Orquestar las tres etapas | **Resuelto** |
-| `tests/test_transform.py` | Probar las transformaciones | **2 TODOs (bonus)** |
+| `tests/test_transform.py` | Probar las transformaciones | **2 TODOs (opcionales)** |
 
 ### 4.3. El dataset final
 
@@ -129,31 +126,13 @@ Reemplazá el README del template por uno tuyo que explique:
 4. Al menos **3 quality checks** que corten el proceso si algo crítico
    está mal.
 5. Docstrings en todas las funciones que escribas.
-6. Estilo PEP 8: `snake_case`, 4 espacios de indentación, nombres
-   descriptivos.
-7. Como mínimo **5 commits** con mensajes que expliquen qué cambió.
-   Un único commit "subo todo" no cumple.
 
 **No permitido:**
 
-- Usar `pandas` u otras librerías externas para el pipeline principal.
-  El objetivo es que resuelvas la lógica vos. (Sí podés usarlo en la
-  sección de bonus si querés graficar.)
 - Modificar la lista `COLUMNAS` de `transform.py`: es el contrato de salida.
 - Hardcodear los datos: tienen que venir de la API.
 
-## 6. Bonus (hasta 5 puntos extra)
-
-Elegí uno o más:
-
-- Escribir los dos tests del TODO 13 y agregar otros propios.
-- Sumar una columna derivada tuya, justificada en el README.
-- Un gráfico simple de la evolución de tu provincia (con `matplotlib`).
-- Hacer que el pipeline acepte la provincia por línea de comandos o por
-  variable de entorno.
-- Un `notebooks/exploracion.ipynb` con un primer vistazo a los datos.
-
-## 7. Cómo se entrega
+## 6. Cómo se entrega
 
 Se entrega **el link a tu repositorio de GitHub** por el campus.
 
@@ -163,9 +142,7 @@ Se entrega **el link a tu repositorio de GitHub** por el campus.
 - Verificá antes de entregar: abrí tu link en una ventana de incógnito y
   fijate que se vea.
 
-**Fecha de entrega:** ____ / ____ / ________
-
-## 8. Antes de entregar, revisá
+## 7. Antes de entregar, revisá
 
 - [ ] `python src/main.py` corre de punta a punta sin errores
 - [ ] `python tests/test_transform.py` pasa los 17 tests
@@ -173,11 +150,10 @@ Se entrega **el link a tu repositorio de GitHub** por el campus.
 - [ ] Existen `resumen.json` y `pipeline.log`
 - [ ] Corrí el pipeline dos veces: el CSV quedó igual, el log tiene 2 líneas
 - [ ] El README es mío y explica mi pipeline
-- [ ] Tengo al menos 5 commits con mensajes claros
 - [ ] Todas mis funciones tienen docstring
 - [ ] Mi repositorio es accesible desde el link que voy a entregar
 
-## 9. Consultas
+## 8. Consultas
 
 Dudas por el **foro de la materia**. Antes de preguntar, revisá si ya
 está respondida. Cuando preguntes, contá qué intentaste y pegá el

@@ -141,7 +141,7 @@ REGIONES = {
     "Brasil": "Mercosur",
     "Paraguay": "Mercosur",
     "Estados Unidos": "América del Norte",
-    "México": "América del Norte",
+    "México": "América Latina",
     "Chile": "América Latina",
     "Colombia": "América Latina",
     "Perú": "América Latina",

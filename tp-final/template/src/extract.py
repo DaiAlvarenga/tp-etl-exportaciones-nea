@@ -19,7 +19,7 @@ import logging
 import os
 from urllib.error import URLError, HTTPError
 from urllib.parse import urlencode
-from urllib.request import urlopen
+from urllib.request import urlopen, Request
 
 import config
 
@@ -43,7 +43,14 @@ def pedir_a_la_api(url):
     Lanza una excepción si la descarga falla. Quien llama decide qué hacer:
     acá no decidimos por el resto del programa.
     """
-    with urlopen(url, timeout=config.TIMEOUT_SEGUNDOS) as respuesta:
+    # Some servers block requests without a browser-like User-Agent.
+    req = Request(url, headers={
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0 Safari/537.36"
+        )
+    })
+    with urlopen(req, timeout=config.TIMEOUT_SEGUNDOS) as respuesta:
         crudo = respuesta.read().decode("utf-8")
     return json.loads(crudo)
 
