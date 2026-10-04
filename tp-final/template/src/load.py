@@ -62,7 +62,9 @@ def chequear_unicidad(filas):
     # TODO 9 --------------------------------------------------------------
     # Pista: es el patrón del set que viste en la Clase 3. Armá la lista de
     # claves (una tupla por fila) y compará len(lista) con len(set(lista)).
-    raise NotImplementedError("TODO 9: implementá chequear_unicidad()")
+    claves = [(f["provincia"], f["anio"], f["destino"]) for f in filas]
+    duplicados = len(claves) - len(set(claves))
+    return duplicados == 0, f"unicidad: {duplicados} duplicados en (provincia, anio, destino)"
     # ---------------------------------------------------------------------
 
 
@@ -75,7 +77,8 @@ def chequear_rangos(filas):
     # TODO 10 -------------------------------------------------------------
     # Pista: una comprensión de lista con la condición al final te da
     # directamente las filas fuera de rango; después mirás cuántas son.
-    raise NotImplementedError("TODO 10: implementá chequear_rangos()")
+    fuera = [f for f in filas if f["valor_musd"] < 0 or f["valor_musd"] > config.VALOR_MAXIMO_RAZONABLE]
+    return len(fuera) == 0, f"rangos: {len(fuera)} valores fuera de rango (0 a {config.VALOR_MAXIMO_RAZONABLE})"
     # ---------------------------------------------------------------------
 
 
@@ -171,7 +174,25 @@ def construir_resumen(filas, detalle_checks):
     #   - Para provincias únicas y ordenadas: sorted({f["provincia"] for f in filas})
     #   - Para la fecha: datetime.now().strftime("%Y-%m-%d %H:%M")
     #   - Podés agregar más claves si querés (suma puntos en la rúbrica).
-    raise NotImplementedError("TODO 11: implementá construir_resumen()")
+    valores = [f["valor_musd"] for f in filas]
+    anios = [f["anio"] for f in filas]
+
+    return {
+        "dataset": "Exportaciones del NEA por provincia y país de destino",
+        "fuente": "INDEC, API de Series de Tiempo (datos.gob.ar), datasets 357.1 y 350.1",
+        "unidad": "millones de dólares FOB",
+        "generado": datetime.now().strftime("%Y-%m-%d %H:%M"),
+        "filas": len(filas),
+        "columnas": len(COLUMNAS),
+        "periodo": {"desde": min(anios), "hasta": max(anios)},
+        "provincias": sorted({f["provincia"] for f in filas}),
+        "valor_musd": {
+            "minimo": min(valores),
+            "maximo": max(valores),
+            "promedio": round(sum(valores) / len(valores), 2),
+        },
+        "quality_checks": detalle_checks,
+    }
     # ---------------------------------------------------------------------
 
 
@@ -183,7 +204,16 @@ def guardar_resumen(resumen, carpeta=None, nombre=None):
     """
     # TODO 12a ------------------------------------------------------------
     # Muy parecido a guardar_csv(), pero con json.dump().
-    raise NotImplementedError("TODO 12a: implementá guardar_resumen()")
+    carpeta = carpeta or config.DIR_PROCESSED
+    nombre = nombre or config.ARCHIVO_SALIDA_JSON
+    os.makedirs(carpeta, exist_ok=True)
+    ruta = os.path.join(carpeta, nombre)
+
+    with open(ruta, "w", encoding="utf-8") as f:
+        json.dump(resumen, f, ensure_ascii=False, indent=2)
+
+    logging.info("  JSON: %s", ruta)
+    return ruta
     # ---------------------------------------------------------------------
 
 
@@ -196,7 +226,19 @@ def escribir_log_corrida(resumen, carpeta=None, nombre=None):
         2026-08-02 14:30 | OK | 1408 filas | 1993-2024
     """
     # TODO 12b ------------------------------------------------------------
-    raise NotImplementedError("TODO 12b: implementá escribir_log_corrida()")
+    carpeta = carpeta or config.DIR_LOGS
+    nombre = nombre or config.ARCHIVO_LOG
+    os.makedirs(carpeta, exist_ok=True)
+    ruta = os.path.join(carpeta, nombre)
+
+    periodo = resumen["periodo"]
+    linea = (f"{resumen['generado']} | OK | {resumen['filas']} filas | "
+            f"{periodo['desde']}-{periodo['hasta']}")
+
+    with open(ruta, "a", encoding="utf-8") as f:
+        f.write(linea + "\n")
+
+    return ruta
     # ---------------------------------------------------------------------
 
 
