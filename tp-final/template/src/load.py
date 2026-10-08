@@ -63,8 +63,11 @@ def chequear_unicidad(filas):
     # Pista: es el patrón del set que viste en la Clase 3. Armá la lista de
     # claves (una tupla por fila) y compará len(lista) con len(set(lista)).
     claves = [(f["provincia"], f["anio"], f["destino"]) for f in filas]
+    # Los duplicados sirven para la confiabilidad de los datos.
+    # Con esto se busca detectarlos, eliminarlos y que no influyan en el resultado.
     duplicados = len(claves) - len(set(claves))
-    return duplicados == 0, f"unicidad: {duplicados} duplicados en (provincia, anio, destino)"
+    mensaje = f"unicidad: {duplicados} duplicados en (provincia, anio, destino)"
+    return duplicados == 0, mensaje
     # ---------------------------------------------------------------------
 
 
